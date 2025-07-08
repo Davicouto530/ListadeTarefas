@@ -29,13 +29,13 @@ Esse mini projeto foi desenvolvido como uma forma prática de aplicar conceitos 
 
 ---
 
-## 🔗 Acesse
+## Acesse
 
 - Repositório: [github.com/Davicouto530/ListadeTarefas](https://github.com/Davicouto530/ListadeTarefas)
-- Página com o projeto online: [Clique aqui para acessar](https://davicouto530.github.io/ListadeTarefas/)
+- Página com o projeto online: [Clique aqui para acessar](https://davicouto530.github.io/ListadeTarefas/listaTarefas.html)
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 Feito por [@Davicouto530](https://github.com/Davicouto530) com dedicação e foco em evoluir como desenvolvedor front-end 🚀
