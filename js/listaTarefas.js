@@ -13,7 +13,7 @@ function saveTarefa() {
 // Cria o botão de lixeira e adiciona o evento pra deletar a tarefa
 function deleteTarefa(li, ind) {
     const btnLixeira = document.createElement("img"); // Cria a imagem
-    btnLixeira.setAttribute("src", "./lixeira.png"); // Define o ícone
+    btnLixeira.setAttribute("src", "img/lixeira.png"); // Define o ícone
     btnLixeira.setAttribute("class", "btns"); // Coloca uma classe pra estilizar
 
     // Quando clicar na lixeira
@@ -31,7 +31,7 @@ function deleteTarefa(li, ind) {
 // Cria o botão de editar e adiciona o evento pra editar a tarefa
 function editTarefa(li, ind) {
     const btnEdit = document.createElement("img"); // Cria a imagem
-    btnEdit.setAttribute("src", "./edit.png"); // Define o ícone
+    btnEdit.setAttribute("src", "img/edit.png"); // Define o ícone
     btnEdit.setAttribute("class", "btns"); // Classe pra estilizar
 
     // Quando clicar no botão de editar
